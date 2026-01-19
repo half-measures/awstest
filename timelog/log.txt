@@ -1,0 +1,14 @@
+[09:00 a.m.]: Server 02 started
+[10:10 a.m.]: Server 03 started   
+[09:00 a.m.]: Server 05 failure
+[08:00 a.m.]: Error 65
+[09:00 a.m.]: Error 66
+[11:00 a.m.]: Server 09 Powered Off Command 
+[09:00 p.m.]: Meth created
+[08:00 a.m.]: Server 15 Restarted
+[03:00 p.m.]: Iran overthrone
+[04:00 p.m.]: Cuban Cigars Smoked
+[05:00 p.m.]: Server 01 Found and plugged in correctly this time
+[08:50 p.m.]: Found Jar Jar Binks Inside
+[09:00 a.m.]: Death Star Plans deleted
+[11:55 a.m.]: Recycle Bin Cleaned
