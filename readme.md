@@ -25,3 +25,13 @@ Further advances -
 2. Use a database, its what its made for. Throw it into Sqlite and this would probally be easy.
 3. ADV would be non-exact numbers like bloom filters or count-min.
     They would have margin of error.
+
+
+
+
+## Problem Statement
+
+Classic Sliding Window to handle time/data structs.
+To calculate total days, we need to find the span of the logs and account for overflow.
+Formula would be Days = Total Logs (N) / Daily Capcity (10)
+
