@@ -1,0 +1,16 @@
+COUNT      |  LINE
+------------|-----------------
+1          | [04:00 p.m.]: Cuban Cigars Smoked
+1          | [08:50 p.m.]: Found Jar Jar Binks Inside
+1          | [09:00 a.m.]: Death Star Plans deleted
+3          | [11:55 a.m.]: Recycle Bin Cleaned
+1          | [09:00 a.m.]: Server 02 started
+1          | [09:00 a.m.]: Server 05 failure
+1          | [08:00 a.m.]: Error 65
+1          | [09:00 a.m.]: Error 66
+1          | [11:00 a.m.]: Server 09 Powered Off Command 
+1          | [08:00 a.m.]: Server 15 Restarted
+1          | [03:00 p.m.]: Iran overthrone
+1          | [05:00 p.m.]: Server 01 Found and plugged in correctly this time
+1          | [10:10 a.m.]: Server 03 started   
+1          | [09:00 p.m.]: Meth created
